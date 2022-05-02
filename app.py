@@ -14,3 +14,4 @@ def hello_world():
 # terminal:
 # export FLASK_APP=app.py
 # set FLASK_APP=app.py
+# flask run
