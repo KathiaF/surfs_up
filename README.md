@@ -23,3 +23,7 @@ Software: Anaconda Navigator 2.1.1, Jupyter Notebook 6.4.6, sqlite
 From the temperature report we can see that there is not much difference in the temperature in June and December and we use a boxplot to obtain information about outliers and other trends. The results indicate that Oahu is an attractive destination to start a surf shop because temperature does not seem to be very volatile. 
 
 <img src="images/img3.png" width="50%" height="50%">
+
+Additionally, it would be useful to compare data on precipitation for June and December to evaluate how the weather changes during the year in addition to temperature changes.
+
+
