@@ -24,6 +24,14 @@ From the temperature report we can see that there is not much difference in the 
 
 <img src="images/img3.png" width="50%" height="50%">
 
-Additionally, it would be useful to compare data on precipitation for June and December to evaluate how the weather changes during the year in addition to temperature changes.
+ Additionally, it would be useful to compare data on precipitation for June and December to evaluate how the weather changes during the years in addition to temperature changes.
+ 
+| D1: June Precipitation | D2: December Precipitation|
+| --- | --- |
+| <img src="images/img4.png" width="60%" height="60%"> | <img src="images/img5.png" width="60%" height="60%"> | 
+
+- It can be seen that the number of times it has rained in both months is very similar throughout the years. However, in the month of December we could expect a higher chance of precipitation.
+
+- An attempt was made to obtain the correlation between temperature and precipitation to see if there is an association between both variables, however, in both months the correlation was low. (june -> r = -0.36 | dec -> r = -0.13). This means that at least on Oahu, having a low temperature in June or December does not increase the chance of precipitation, therefore, the surf and ice cream shop business is sustainable throughout the year.
 
 
